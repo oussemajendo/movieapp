@@ -158,3 +158,22 @@ button:hover {
 h3 {
 	text-align: center;
 }
+.movie-trailer{
+    padding-top:20px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .wess{
+    color: #E3F2FD;
+  }
+  .viv{
+    padding: 20px;
+  }
+  .home-link {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    padding-left: 100px;
+  }
